@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/mackerelio/go-osstat/loadavg"
+	"github.com/resource-aware-jds/go-osstat/loadavg"
 )
 
 type loadavgGenerator struct {

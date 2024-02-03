@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mackerelio/go-osstat/memory"
+	"github.com/resource-aware-jds/go-osstat/memory"
 )
 
 type memoryGenerator struct {

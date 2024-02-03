@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mackerelio/go-osstat/disk"
+	"github.com/resource-aware-jds/go-osstat/disk"
 )
 
 type diskGenerator struct {

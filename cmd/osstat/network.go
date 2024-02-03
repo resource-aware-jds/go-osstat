@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/mackerelio/go-osstat/network"
+	"github.com/resource-aware-jds/go-osstat/network"
 )
 
 type networkGenerator struct {

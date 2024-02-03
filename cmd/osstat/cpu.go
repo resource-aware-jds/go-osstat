@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/mackerelio/go-osstat/cpu"
+	"github.com/resource-aware-jds/go-osstat/cpu"
 )
 
 type cpuGenerator struct {

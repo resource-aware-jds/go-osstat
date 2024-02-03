@@ -1,4 +1,4 @@
-module github.com/mackerelio/go-osstat
+module github.com/resource-aware-jds/go-osstat
 
 go 1.18
 
